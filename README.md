@@ -1,1 +1,1 @@
-# C-Programming-practice-freecodecamp
+# C-Programming-practice
